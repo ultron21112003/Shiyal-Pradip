@@ -1,9 +1,7 @@
-hello everyone My Name Is Shiyal Pradip
-In this day i am send This code
-
+/*
 Q:- how to find simple interest 
 Ans:-
-CODE:-
+CODE:-*/
 // Program To Find Simple Interest
 #include<stdio.h>
 #include<conio.h>
